@@ -11,9 +11,9 @@ void draw(){
   strokeWeight(3);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Unit Goes Here
-  ellipse(50,50,100,80);
-  
-
+  ellipse(200,50,100,80);
+  ellipse(200,153,150,130)
+  ellipse(200,308,200,180)
 }
 
 //🟡Extra FUN Features Ms. Hall Added
